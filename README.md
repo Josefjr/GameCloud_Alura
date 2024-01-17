@@ -1,5 +1,3 @@
-Claro, vou criar uma descrição para o seu projeto de aluguel de games em nuvem:
-
 Nome do Projeto: Aluguel de Jogos  "GamesCloud"
 
 Descrição:
